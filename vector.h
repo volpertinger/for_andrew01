@@ -1,0 +1,6 @@
+#ifndef TP_LAB02_VECTOR_H
+#define TP_LAB02_VECTOR_H
+
+
+
+#endif // TP_LAB02_VECTOR_H
